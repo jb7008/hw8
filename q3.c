@@ -1,3 +1,9 @@
+/*
+ * Programmer : Josh Booth      Date : Apr 11 , 2019
+ * Instructor : Professor Hou   Class : ENGR 120 - 03
+ *
+ * Reads and performs calculations on values in scientific notation
+ */
 
 #include <stdio.h> /* Includes printf, scanf */
 #include <math.h> /* Includes pow */

@@ -1,3 +1,10 @@
+/*
+ * Programmer : Josh Booth      Date : Apr 11 , 2019
+ * Instructor : Professor Hou   Class : ENGR 120 - 03
+ *
+ * Defines a structure to hold an element on the periodic table and functions
+ * to read and print its values
+ */
 
 #include <stdio.h> /* Includes printf, scanf */
 

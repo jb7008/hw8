@@ -1,3 +1,10 @@
+/*
+ * Programmer : Josh Booth      Date : Apr 11 , 2019
+ * Instructor : Professor Hou   Class : ENGR 120 - 03
+ *
+ * Creates a structure to hold the properties of an automobile and functions
+ * to read and print its values
+ */
 
 #include <stdio.h> /* Includes printf, scanf */
 

@@ -1,3 +1,9 @@
+/*
+ * Programmer : Josh Booth      Date : Apr 11 , 2019
+ * Instructor : Professor Hou   Class : ENGR 120 - 03
+ *
+ * Checks if two computers' IP addresses are on the same local network
+ */
 
 #include <stdio.h> /* Includes printf, scanf */
 #include <string.h> /* Includes strcmp */

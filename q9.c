@@ -1,3 +1,10 @@
+/*
+ * Programmer : Josh Booth      Date : Apr 11 , 2019
+ * Instructor : Professor Hou   Class : ENGR 120 - 03
+ *
+ * Performs calculations regarding a battery's charge level and how much
+ * energy a usage takes up
+ */
 
 #include <stdio.h> /* Includes printf, scanf */
 
